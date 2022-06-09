@@ -5,3 +5,9 @@ img{
 .bold{
     font-weight:bold;
 }
+h1{
+    text-align:center;
+}
+p,li,ol,ul{
+    font-family: "helvetica", "Times New Roman", sans-serif; 
+}
