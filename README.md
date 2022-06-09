@@ -1,1 +1,1 @@
-This project is taken on with my newfound skills in simple HTML. Im planning to make a website which organizes many great recipes found all over the internet into one website.     
+This project is taken on with my newfound skills in simple HTML. Im planning to make a website which organizes many great recipes found all over the internet into one website. This project will polish my skills on using html links, images, and text formats. I learned a lot about how images work and making lists/text. 
