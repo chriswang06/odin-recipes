@@ -1,0 +1,1 @@
+This project is taken on with my newfound skills in simple HTML. Im planning to make a website which organizes many great recipes found all over the internet into one website.     
