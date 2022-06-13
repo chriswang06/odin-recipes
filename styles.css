@@ -14,7 +14,7 @@ p,li,ol,ul{
 .container{
     position: relative;
     text-align:center;
-    color:white;
+    color:rgb(126, 233, 149)
 }
 .centered {
     position: absolute;
@@ -37,6 +37,6 @@ p,li,ol,ul{
     font-weight: 400;
     font-style: normal;
     font-size:50px;
-      color:rgb(130, 190, 128);
+    color:rgb(126, 233, 149)
   }
   
