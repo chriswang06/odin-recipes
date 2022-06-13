@@ -11,3 +11,32 @@ h1{
 p,li,ol,ul{
     font-family: "helvetica", "Times New Roman", sans-serif; 
 }
+.container{
+    position: relative;
+    text-align:center;
+    color:white;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    font-family: playfair-display, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:50px;
+  }
+  .pizza{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    font-family: playfair-display, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:50px;
+      color:rgb(130, 190, 128);
+  }
+  
