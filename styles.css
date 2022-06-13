@@ -18,7 +18,7 @@ p,li,ol,ul{
     font-family: playfair-display, serif;
     font-weight: 400;
     font-style: normal;
-    font-size:50px;
+    font-size:150px;
 
 }
 #container{
@@ -38,12 +38,5 @@ p,li,ol,ul{
     
 
   }
-  .pizza{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    
- 
-  }
+
   
