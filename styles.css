@@ -24,7 +24,11 @@ p,li,ol,ul{
 #container{
     position: relative;
     text-align:center;
-    color:rgb(255, 255, 255)
+    color:rgb(255, 255, 255);
+    font-family: abril-fatface, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:90px;
 }
 .centered {
     position: absolute;
